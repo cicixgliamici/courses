@@ -7,8 +7,8 @@ Neural networks (NNs) are computational models inspired by the biological neural
 - **Output Layer**: Produces the final prediction (e.g., classification, regression).  
 
 Each neuron applies an **activation function** to the weighted sum of its inputs, introducing non-linearities essential for modeling complex relationships. Common activation functions include:  
-- **ReLU (Rectified Linear Unit)**: $ f(x) = \max(0, x) $, mitigates vanishing gradients.  
-- **Sigmoid**: $ f(x) = \frac{1}{1 + e^{-x}} $, used for binary classification.  
+- **ReLU (Rectified Linear Unit)**: $f(x) = \max(0, x)$, mitigates vanishing gradients.  
+- **Sigmoid**: $f(x) = \frac{1}{1 + e^{-x}}$, used for binary classification.  
 - **Softmax**: Normalizes outputs into probability distributions for multi-class tasks.  
 
 ---
