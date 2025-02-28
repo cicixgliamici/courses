@@ -8,9 +8,6 @@ In the modern corporate landscape, **Virtual Private Networks (VPNs)** serve as 
 - **Threat Mitigation**: Protect against eavesdropping, MITM attacks, and unauthorized data access.
 - **Compliance Requirements**: Meet GDPR, HIPAA, and PCI-DSS mandates for data protection.
 
-![Corporate VPN Architecture](https://example.com/vpn-diagram.png)  
-*Typical VPN deployment in a hybrid cloud environment*
-
 ---
 
 ## Client-to-Site VPN: Secure Remote Access
