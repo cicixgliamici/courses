@@ -3,9 +3,6 @@
 ## Introduction to NLP
 **Natural Language Processing (NLP)** is a subfield of AI focused on enabling machines to understand, interpret, and generate human language. It combines linguistics, computer science, and machine learning to bridge communication between humans and machines. Key applications include chatbots, sentiment analysis, and machine translation.
 
-![NLP Pipeline](https://example.com/nlp-pipeline.png)  
-*Typical NLP workflow from raw text to actionable insights*
-
 ---
 
 ## Core NLP Concepts
