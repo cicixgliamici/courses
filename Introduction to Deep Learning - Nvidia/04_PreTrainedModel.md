@@ -7,10 +7,6 @@ Pre-trained models (PTMs) are neural networks trained on large-scale datasets an
 - 📊 **Data Efficiency**: Achieve high performance with limited labeled data (10-100x less)
 - 🌐 **Cross-Domain Adaptation**: Apply models to new domains through fine-tuning
 - 💡 **State-of-the-Art (SOTA) Performance**: Access cutting-edge architectures like GPT-4 and Vision Transformers
-
-![Pre-trained Model Workflow](https://example.com/pretrained-flow.png)  
-*Typical transfer learning pipeline using PTMs*
-
 ---
 
 ## Language Models: NLP Powerhouses
