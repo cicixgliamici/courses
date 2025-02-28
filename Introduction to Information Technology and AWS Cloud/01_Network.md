@@ -23,13 +23,12 @@ Client-to-Site VPN (Remote Access VPN) enables individual devices to securely co
 
 ### AWS Client VPN Deep Dive
 AWS's managed solution offers unique advantages:
-Features:
-      - Endpoint Types: Cloud-based or on-premises
-      - Protocol: OpenVPN (UDP/TCP)
-      - Integration: 
-        - AWS VPC Peering
-        - Active Directory (LDAP/SAML)
-      - Logging: CloudWatch metrics & VPN connection logs
+- Endpoint Types: Cloud-based or on-premises
+- Protocol: OpenVPN (UDP/TCP)
+- Integration: 
+    - AWS VPC Peering
+    - Active Directory (LDAP/SAML)
+ Logging: CloudWatch metrics & VPN connection logs
 
 **Use Cases:**
 1. Remote developers accessing cloud-hosted code repositories
