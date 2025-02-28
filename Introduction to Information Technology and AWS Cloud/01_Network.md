@@ -28,7 +28,7 @@ AWS's managed solution offers unique advantages:
 - Integration: 
     - AWS VPC Peering
     - Active Directory (LDAP/SAML)
- Logging: CloudWatch metrics & VPN connection logs
+- Logging: CloudWatch metrics & VPN connection logs
 
 **Use Cases:**
 1. Remote developers accessing cloud-hosted code repositories
