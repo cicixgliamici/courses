@@ -32,6 +32,8 @@
 4. Execute cells to see output immediately below them.
 5. Save the notebook, which serializes the content into a `.ipynb` file.
 
+---
+
 ## History & Evolution <a name="history--evolution"></a>
 - 2001: IPython project started by Fernando Pérez
 - 2014: IPython Notebook becomes **Jupyter** (supporting Julia, Python, R)
